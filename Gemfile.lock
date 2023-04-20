@@ -210,7 +210,6 @@ DEPENDENCIES
   rails (~> 7.0.4, >= 7.0.4.3)
   sassc-rails
   simple_form
-  sprockets-rails
   sqlite3 (~> 1.4)
   stimulus-rails
   turbo-rails
